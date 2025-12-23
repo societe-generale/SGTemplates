@@ -1,2 +1,9 @@
-# SGTemplates
-A template repository to kickstart any repositories hosted on societe-generale GitHub organisation
+# Project title
+
+Provide a brief description of your project here.
+
+## Installation instructions
+
+## Usage instructions
+
+## Contact information
